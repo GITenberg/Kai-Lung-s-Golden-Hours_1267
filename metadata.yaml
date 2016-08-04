@@ -1,0 +1,46 @@
+_repo: Kai-Lung-s-Golden-Hours_1267
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+creator:
+  author:
+    agent_name: Bramah, Ernest
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '529'
+    url: http://www.gutenberg.org/2009/agents/529
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Bramah
+description: "Kai Lung's Golden Hours is a fantasy novel by Ernest Bramah. It was\
+  \ first published in hardcover in London by Grant Richards Ltd. in October, 1922,\
+  \ and there have been numerous editions since. The first edition included a preface\
+  \ by Hilaire Belloc, which has also been a feature of every edition since. Its importance\
+  \ in the history of fantasy literature was recognized by its reissuing by Ballantine\
+  \ Books as the forty-fifth volume of the celebrated Ballantine Adult Fantasy series\
+  \ in April, 1972. The Ballantine edition includes an introduction by Lin Carter.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1267'
+  wikidata: Q6347444
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kai Lung (Fictitious character) -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- GITenberg
+title: Kai Lung's Golden Hours
+url: http://www.gutenberg.org/ebooks/1267
+wikipedia:
+- https://en.wikipedia.org/wiki/Kai_Lung%27s_Golden_Hours
