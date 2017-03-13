@@ -1,5 +1,5 @@
 _repo: Kai-Lung-s-Golden-Hours_1267
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Belloc, Hilaire
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2437'
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bramah, Ernest
@@ -25,6 +28,8 @@ description: "Kai Lung's Golden Hours is a fantasy novel by Ernest Bramah. It wa
   \ Books as the forty-fifth volume of the celebrated Ballantine Adult Fantasy series\
   \ in April, 1972. The Ballantine edition includes an introduction by Lin Carter.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1267#Kai-Lung-s-Golden-Hours
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
